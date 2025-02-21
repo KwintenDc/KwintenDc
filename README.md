@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi there! I'm Kwinten 👋 ![Profile Views](https://komarev.com/ghpvc/?username=kwintendc)
+🌱 I'm currently working on my bachelor's degree in electronics and ICT.   <br/>
+⚡ I enjoy learning new things and working on demanding projects. <br/>
+🔧 Passionate about AI and it's advancements
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,c,git)](https://skillicons.dev)
+<br/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwintendc&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="750px">
+</p>
 
 <!--
 **KwintenDc/KwintenDc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
